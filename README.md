@@ -78,7 +78,7 @@ I'm a Full Stack Developer specializing in backend and distributed systems. Curr
 
 ### Development Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,apollo" />
 </p>
 
 ---
