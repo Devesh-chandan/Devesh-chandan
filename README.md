@@ -31,6 +31,78 @@ I am a second-year Electronics and Telecommunication (ENTC) engineering student 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Devesh-chandan&theme=tokyonight&hide_border=false)
 
+<div align="center">
+
+# Hey! Myself Devesh Chandan
+### Full Stack Developer & Software Engineer
+<p align="center">
+  <img src="https://img.shields.io/badge/Devops-2ca444?style=for-the-badge&logoColor=white" alt="Devops" />
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I'm a Full Stack Developer specializing in backend and distributed systems. Currently pursuing my degree at Pune Institute of Computer Technology, I focus on building scalable, resilient applications.
+
+* 🛠️ Working on cloud-native applications and microservices architecture
+* 🌱 Advancing my expertise in backend, distributed systems and cloud computing
+* 💡 Open to collaboration on enterprise-scale web applications
+* 🎯 Specialized in high-performance backend systems and API design
+
+---
+
+## Technical Expertise
+
+### Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,java,py,go" />
+</p>
+
+### Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind" />
+</p>
+
+### Backend & Database Systems
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,mysql,postgres,mongodb,redis" />
+</p>
+
+### Cloud & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,azure,gcp" />
+</p>
+
+### Development Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
+
+---
+
+## Github Metrics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## Professional Network
+
+### 👨‍💻 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-chandan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
