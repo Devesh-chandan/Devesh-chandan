@@ -1,3 +1,4 @@
+![6202604a5183f64600f4068e354f302c](https://github.com/user-attachments/assets/b3db0e84-ce11-4e2a-b5d1-7a8eab1babdc)
 # 💫 About Me
 I am a second-year Electronics and Telecommunication (ENTC) engineering student with a strong interest in technology and innovation. Alongside academics, I focus on building industry-relevant skills such as Data Structures & Algorithms and development. I enjoy solving real-life problems, optimizing solutions, and working on projects that connect theory with practical applications.
 
