@@ -81,8 +81,7 @@ I am a second-year **Electronics and Telecommunication (ENTC)** student at **Pun
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devesh-chandan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-chandan&layout=compact&theme=tokyonight" alt="Top Langs" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-chandan&theme=tokyonight" alt="GitHub Streak" />
-</p>
+ </p>
 
 ---
 
