@@ -32,23 +32,36 @@ I am a second-year **Electronics and Telecommunication (ENTC)** student at **Pun
 
 ### Languages & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,html,css,react,nextjs,tailwind,bootstrap,notion" />
 </p>
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,mysql,postgres,mongodb,redis,redux" />
 </p>
 
 ### Cloud, DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,postman,vscode,prisma,ps,blender" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,pycharm" />
 </p>
 
 ### 🚀 Learning & Exploration
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=python,kubernetes,linux,mint" />
 </p>
+
+
+### Softwares
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,blender,arduino,autocad,windows" />
+</p>
+
+
 
 ---
 
