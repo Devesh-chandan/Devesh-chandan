@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b3db0e84-ce11-4e2a-b5d1-7a8eab1babdc" width="100%" />
 
-  # Hey! I'm Devesh Chandan 💫
-  ### Full Stack Developer & Software Engineer
-  
+ 
+ <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70808&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" />
+  </a>
+</p>
   <p align="center">
 <a href="https://www.linkedin.com/in/devesh-chandan-697654332">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
