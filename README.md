@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b3db0e84-ce11-4e2a-b5d1-7a8eab1babdc" width="100%" />
-
+---
  
  <p align="center">
   <a href="https://git.io/typing-svg">
@@ -101,8 +101,13 @@ I am a second-year **Electronics and Telecommunication (ENTC)** student at **Pun
 
 ---
 
+
 <div align="center">
   <a href="https://visitcount.itsvg.in/api?id=Devesh-chandan&icon=0&color=0">
     <img src="https://visitcount.itsvg.in/api?id=Devesh-chandan&icon=0&color=0" />
+  <div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevesh-chandan&label=Profile%20Views&labelColor=%23000000&countColor=%23F70808" />
+</div>
+    
   </a>
 </div>
