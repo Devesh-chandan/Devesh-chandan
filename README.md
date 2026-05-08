@@ -100,10 +100,7 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Devesh_chandan?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="495" />
-  <br/>
-  <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a> 
+  <br/> 
 </div>
 
 ---
@@ -114,7 +111,6 @@
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Devesh-chandan&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117" height="190px" />
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Devesh-chandan&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="190px" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-chandan&theme=react&hide_border=true&background=0D1117" height="190px" />
 </div>
