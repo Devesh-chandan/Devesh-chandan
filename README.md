@@ -7,29 +7,27 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70808&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" />
     </a>
   </p>
+  
   <p align="center">
-    <!-- Gmail -->
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/devesh-chandan-697654332" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <!-- LeetCode -->
     <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
-    <!-- Discord -->
+    <a href="https://www.geeksforgeeks.org/profile/creav5x0" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    </a>
     <a href="https://discord.gg/devesh_chandan123" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <!-- Portfolio (Pointing to your Acadverse project as a placeholder) -->
     <a href="https://github.com/Devesh-chandan" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
   </p>
-
 </div>
 
 ---
@@ -87,18 +85,112 @@
   <img src="https://skillicons.dev/icons?i=ps,blender,arduino,autocad,windows" />
 </p>
 
+### LLM and AI Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20copilot-0000FF?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=black" />
+</p>
+
 ---
 
 ## 🏆 Programming Stats
 
 <div align="center">
-  <!-- The card updates automatically as you solve more problems -->
   <img src="https://leetcard.jacoblin.cool/Devesh_chandan?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="495" />
   <br/>
   <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a> 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Devesh-chandan&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117" height="190px" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Devesh-chandan&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="190px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-chandan&theme=react&hide_border=true&background=0D1117" height="190px" />
+</div>
+
+---
+
+## 🛠️ Experience & Significant Projects
+
+<!-- Project 1: PASC-CCA -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="left" style="white-space: nowrap;">
+      <b><font size="4">PASC-CCA Management</font></b>
+      <a href="https://github.com/PICT-ACM-Student-Chapter/PASC-CCA-Backend_2025"><samp>Repository </samp></a>
+    </td>
+    <td align="center" style="padding-left: 10px; padding-right: 10px;">
+      <img src="https://img.shields.io/badge/Next.js%2015-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td align="right" style="white-space: nowrap;">
+      <i>Jul 2025 – Feb 2026</i>
+    </td>
+  </tr>
+</table>
+<ul>
+  <li>Built responsive dashboards optimized for <b>1,000+ projected users</b> with Next.js 15.</li>
+  <li>Accelerated data retrieval by <b>40%</b> via server-side pagination and indexing.</li>
+  <li>Hardened security by patching JWT vulnerabilities and enforcing <b>Zod type-safety</b>.</li>
+</ul>
+
+<!-- Project 2: PICT-ACADVERSE -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="left" style="white-space: nowrap;">
+      <b><font size="4">PICT-ACADVERSE</font></b> 
+      <a href="https://github.com/Devesh-chandan/Acadverse-new"><samp>Repository </samp></a>
+    </td>
+    <td align="center" style="padding-left: 10px; padding-right: 10px;">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td align="right" style="white-space: nowrap;">
+      <i>Dec 2025 – Feb 2026</i>
+    </td>
+  </tr>
+</table>
+<ul>
+  <li>Architected a MERN platform serving <b>1,200+ students</b> with 99.9% runtime stability.</li>
+  <li>Built a <b>Shadcn PDF explorer</b>, boosting resource discoverability by 35%.</li>
+  <li>Managed 2GB+ of academic data via Cloudinary, reducing server overhead by <b>50%</b>.</li>
+</ul>
+
+<!-- Project 3: WanderLust -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="left" style="white-space: nowrap;">
+      <b><font size="4">WanderLust</font></b>
+      <a href="https://github.com/Devesh-chandan/Wanderlust"><samp>Repository </samp></a>
+    </td>
+    <td align="center" style="padding-left: 10px; padding-right: 10px;">
+      <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white" />
+    </td>
+    <td align="right" style="white-space: nowrap;">
+      <i>Nov 2025 – Dec 2025</i>
+    </td>
+  </tr>
+</table>
+<ul>
+  <li>Directed an <b>MVC marketplace</b> managing 100+ global listings via Mongoose Middlewares.</li>
+  <li>Implemented Passport.js session strategies, boosting login success rates by 15%.</li>
+  <li>Optimized NoSQL models with DB-level indexing, accelerating query execution by <b>22%</b>.</li>
+</ul>
 
 ---
 
@@ -125,31 +217,25 @@
 * **[Wanderlust](https://github.com/Devesh-chandan/Wanderlust)**: Full-stack travel listing and review platform.
 
 ---
-<div>
- <p align="center">
-    <!-- Gmail -->
+
+<div align="center">
+  <p>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/devesh-chandan-697654332" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <!-- LeetCode -->
     <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
-    <!-- Discord -->
     <a href="https://discord.gg/devesh_chandan123" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <!-- Portfolio (Pointing to your Acadverse project as a placeholder) -->
     <a href="https://github.com/Devesh-chandan" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
   </p>
-  </div>
-<div align="center">
   <p>
     <!-- Total Visitors Badge -->
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevesh-chandan&label=Profile%20Views&labelColor=%23000000&countColor=%23F70808&style=flat-square" alt="Visitors" />
