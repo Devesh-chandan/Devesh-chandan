@@ -1,6 +1,8 @@
 <div align="center">
   <!-- Banner Image -->
-  <img src="https://github.com/user-attachments/assets/b3db0e84-ce11-4e2a-b5d1-7a8eab1babdc" width="100%" />
+ 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
+<br>
   
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -119,100 +121,68 @@
 
 ## 🛠️ Experience & Significant Projects
 
-<!-- Project 1: PASC-CCA -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="left" style="white-space: nowrap;">
-      <b><font size="4">PASC-CCA Management</font></b>
-      <a href="https://github.com/PICT-ACM-Student-Chapter/PASC-CCA-Backend_2025"><samp>Repository </samp></a>
-    </td>
-    <td align="center" style="padding-left: 10px; padding-right: 10px;">
-      <img src="https://img.shields.io/badge/Next.js%2015-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-    <td align="right" style="white-space: nowrap;">
-      <i>Jul 2025 – Feb 2026</i>
-    </td>
-  </tr>
-</table>
-<ul>
-  <li>Built responsive dashboards optimized for <b>1,000+ projected users</b> with Next.js 15.</li>
-  <li>Accelerated data retrieval by <b>40%</b> via server-side pagination and indexing.</li>
-  <li>Hardened security by patching JWT vulnerabilities and enforcing <b>Zod type-safety</b>.</li>
-</ul>
 
-<!-- Project 2: PICT-ACADVERSE -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="left" style="white-space: nowrap;">
-      <b><font size="4">PICT-ACADVERSE</font></b> 
-      <a href="https://github.com/Devesh-chandan/Acadverse-new"><samp>Repository </samp></a>
-    </td>
-    <td align="center" style="padding-left: 10px; padding-right: 10px;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-    <td align="right" style="white-space: nowrap;">
-      <i>Dec 2025 – Feb 2026</i>
-    </td>
-  </tr>
-</table>
-<ul>
-  <li>Architected a MERN platform serving <b>1,200+ students</b> with 99.9% runtime stability.</li>
-  <li>Built a <b>Shadcn PDF explorer</b>, boosting resource discoverability by 35%.</li>
-  <li>Managed 2GB+ of academic data via Cloudinary, reducing server overhead by <b>50%</b>.</li>
-</ul>
+### **PASC-CCA Management**
+> **Full-stack Management System** | [📂 Repository](https://github.com/Devesh-chandan/PASC_CCA_Frontend__2025)  
+> *Jul 2025 – Feb 2026*
 
-<!-- Project 3: WanderLust -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="left" style="white-space: nowrap;">
-      <b><font size="4">WanderLust</font></b>
-      <a href="https://github.com/Devesh-chandan/Wanderlust"><samp>Repository </samp></a>
-    </td>
-    <td align="center" style="padding-left: 10px; padding-right: 10px;">
-      <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white" />
-    </td>
-    <td align="right" style="white-space: nowrap;">
-      <i>Nov 2025 – Dec 2025</i>
-    </td>
-  </tr>
-</table>
-<ul>
-  <li>Directed an <b>MVC marketplace</b> managing 100+ global listings via Mongoose Middlewares.</li>
-  <li>Implemented Passport.js session strategies, boosting login success rates by 15%.</li>
-  <li>Optimized NoSQL models with DB-level indexing, accelerating query execution by <b>22%</b>.</li>
-</ul>
+![Next.js](https://img.shields.io/badge/Next.js%2015-000?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+*   Built responsive dashboards optimized for **1,000+ projected users** utilizing Next.js 15.
+*   Accelerated data retrieval by **40%** through server-side pagination and strategic indexing.
+*   Hardened system security by patching JWT vulnerabilities and enforcing strict **Zod type-safety**.
 
 ---
 
-## 🚀 Featured Projects
+### **PICT-ACADVERSE**
+> **Academic Resource Hub** | [📂 Repository](https://github.com/Devesh-chandan/Acadverse-new)  
+> *Dec 2025 – Feb 2026*
 
-### 💼 Professional & Enterprise
-* **[Finance Data Processing](https://github.com/Devesh-chandan/Finance-Data-Processing-and-Access-Control)**: Finance data management system with granular access control.
-* **[Portfolio - Dr. Geetanjali Kale](https://github.com/Devesh-chandan/portfolio-website-Geetanjali-Mam)**: Official portfolio for the Head of Computer Engineering at PICT.
-* **[Focus Warden Pro](https://github.com/Devesh-chandan/Focus-Warden-Pro-extensions)**: High-performance Chrome extension for productivity and distraction elimination.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-### 🏆 Hackathons & Competitions
-* **Smart India Hackathon (SIH)**: Contributed to three iterations (**SIH 1.0, 2.0, & 3.0**) building full-stack solutions.
-* **[IGC](https://github.com/Devesh-chandan/IGC)**: Project developed for the PCCOE IGC Hackathon.
-* **[VanNetra](https://github.com/Dip-2007/VanNetra-bytheunseenBytes)**: Specialized project for surveillance/monitoring (Collaboration).
-
-### 🎓 PICT & Academic Solutions
-* **[Acadverse / Acadverse-new](https://github.com/Devesh-chandan/Acadverse-new)**: Comprehensive PYQ and resource platform for PICT students.
-* **[PASC CCA Management](https://github.com/PICT-ACM-Student-Chapter/PASC-CCA-Backend_2025)**: Core contributor to the PICT ACM Student Chapter CCA systems.
-* **[Badminton System](https://github.com/Devesh-chandan/Inhouse-Project-Badminton-System)**: In-house booking/management system for campus sports.
-
-### ⚡ IoT & Utility
-* **[Smart Parking System](https://github.com/Devesh-chandan/PBL-IOT-Based-Smart-Parking-System)**: JavaScript-powered IoT project for real-time parking optimization.
-* **[BambooBazaar](https://github.com/Devesh-chandan/BambooBazaar)**: E-commerce impact project supporting artisans in Khopi village.
-* **[Wanderlust](https://github.com/Devesh-chandan/Wanderlust)**: Full-stack travel listing and review platform.
+*   Architected a MERN platform serving **1,200+ students** with verified 99.9% runtime stability.
+*   Developed a custom **Shadcn PDF explorer**, increasing resource discoverability by **35%**.
+*   Streamlined 2GB+ of academic data via Cloudinary, reducing server overhead by **50%**.
 
 ---
+
+### **Smart-Park Pro**
+> **IoT-Based Smart Parking System** | [📂 Repository](https://github.com/Devesh-chandan/PBL-IOT-Based-Smart-Parking-System)  
+> *Mar 2026 – Apr 2026*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+*   Engineered an **automated end-to-end** parking management system using **YOLOv8** for license plate detection and **EasyOCR** for precise character recognition.
+*   Architected a **FastAPI backend** to bridge ESP32-CAM hardware with **Google Sheets API**, enabling real-time cloud logging and automated gate control logic.
+*   Developed a **responsive React dashboard** featuring real-time status updates, significantly reducing manual monitoring efforts through automated vehicle entry/exit triggers.
+
+---
+
+### **WanderLust**
+> **Travel Marketplace** | [📂 Repository](https://github.com/Devesh-chandan/Wanderlust)  
+> *Nov 2025 – Dec 2025*
+
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+*   Directed an **MVC marketplace** managing 100+ global listings via optimized Mongoose Middlewares.
+*   Implemented Passport.js session strategies, boosting user login success rates by **15%**.
+*   Optimized NoSQL models with DB-level indexing, accelerating query execution by **22%**.
+
+---
+
+### **BambooBazaar**
+> **Sustainable Marketplace** | [📂 Repository](https://github.com/Devesh-chandan/BambooBazaar)  
+> *July 2025 – May 2026*
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+*   Architected a **full-stack marketplace** using **Next.js 15** and **PostgreSQL**, connecting local artisans to a global ethical network.
+*   Engineered a high-performance backend with **Prisma ORM**, implementing **Bento Grid** layouts and **Glassmorphism** UI components for an enhanced digital gallery experience.
+*   Containerized the application environment using **Docker**, ensuring seamless deployment and a **30% improvement** in development workflow consistency.
+*   Integrated **Neon PostgreSQL** for scalable data management, facilitating transparent growth and real-time tracking of eco-friendly product listings.
+
+---
+
 
 <div align="center">
   <p>
