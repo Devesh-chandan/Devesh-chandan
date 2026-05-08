@@ -59,12 +59,19 @@
 
 ### Languages & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,html,css,react,nextjs,tailwind,bootstrap,notion" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,tailwind,bootstrap,notion" />  
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs" />
+</p>
+
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,mysql,postgres,mongodb,redis,redux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,mysql,postgres" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,redux" />
 </p>
 
 ### Cloud, DevOps & Tools
