@@ -1,33 +1,57 @@
 <div align="center">
+  <!-- Banner Image -->
   <img src="https://github.com/user-attachments/assets/b3db0e84-ce11-4e2a-b5d1-7a8eab1babdc" width="100%" />
----
- 
- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70808&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" />
-  </a>
-</p>
+  
   <p align="center">
-<a href="https://www.linkedin.com/in/devesh-chandan-697654332">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70808&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </p>
+  <p align="center">
+    <!-- Gmail -->
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://discord.gg/devesh_chandan123">
-      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/devesh-chandan-697654332" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-   </p>
+    <!-- LeetCode -->
+    <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <!-- Discord -->
+    <a href="https://discord.gg/devesh_chandan123" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <!-- Portfolio (Pointing to your Acadverse project as a placeholder) -->
+    <a href="https://github.com/Devesh-chandan" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
 ## 📖 About Me
-I am a second-year **Electronics and Telecommunication (ENTC)** student at **Pune Institute of Computer Technology**. I focus on building scalable, resilient applications and optimizing solutions for real-life problems.
 
-* 🛠️ **Current Focus**: Working on cloud-native applications and microservices architecture.
-* 🌱 **Learning**: Advancing expertise in distributed systems and cloud computing.
-* 🎯 **Specialization**: High-performance backend systems and API design.
+<div>
+  <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2drc3o2MnNoczU0NG45NjJqeWlqcnZiNGh4aDU2emh5bnpodzV2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  
+  <ul style="list-style-type: none;">
+    <li>🎓 <b>Second-year ENTC Student</b> at Pune Institute of Computer Technology</li>
+    <li>✨ <b>Fullstack Developer</b> building scalable and resilient applications</li>
+    <li>🚀 <b>Current Focus</b>: Cloud-native applications & microservices</li>
+    <li>🌱 <b>Learning</b>: Advancing expertise in distributed systems</li>
+    <li>🎯 <b>Specialization</b>: High-performance backend systems & API design</li>
+    <li>💡 <b>Passion</b>: Optimizing solutions for real-life problems</li>
+    <li>📚 <b>Academic Work</b>: PICT ACM Student Chapter (PASC) Active Member</li>
+    <li>📫 <b>Reach me</b>: <b>deveshc1012@gmail.com</b></li>
+  </ul>
+</div>
+
+<br clear="right"/>
 
 ---
 
@@ -58,13 +82,23 @@ I am a second-year **Electronics and Telecommunication (ENTC)** student at **Pun
   <img src="https://skillicons.dev/icons?i=python,kubernetes,linux,mint" />
 </p>
 
-
 ### Softwares
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,blender,arduino,autocad,windows" />
 </p>
 
+---
 
+## 🏆 Programming Stats
+
+<div align="center">
+  <!-- The card updates automatically as you solve more problems -->
+  <img src="https://leetcard.jacoblin.cool/Devesh_chandan?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="495" />
+  <br/>
+  <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a> 
+</div>
 
 ---
 
@@ -91,23 +125,33 @@ I am a second-year **Electronics and Telecommunication (ENTC)** student at **Pun
 * **[Wanderlust](https://github.com/Devesh-chandan/Wanderlust)**: Full-stack travel listing and review platform.
 
 ---
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devesh-chandan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-chandan&layout=compact&theme=tokyonight" alt="Top Langs" /><br/>
- </p>
-
----
-
-
+<div>
+ <p align="center">
+    <!-- Gmail -->
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/devesh-chandan-697654332" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <!-- LeetCode -->
+    <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <!-- Discord -->
+    <a href="https://discord.gg/devesh_chandan123" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <!-- Portfolio (Pointing to your Acadverse project as a placeholder) -->
+    <a href="https://github.com/Devesh-chandan" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+  </div>
 <div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Devesh-chandan&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Devesh-chandan&icon=0&color=0" />
-  <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevesh-chandan&label=Profile%20Views&labelColor=%23000000&countColor=%23F70808" />
-</div>
-    
-  </a>
+  <p>
+    <!-- Total Visitors Badge -->
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevesh-chandan&label=Profile%20Views&labelColor=%23000000&countColor=%23F70808&style=flat-square" alt="Visitors" />
+  </p>
 </div>
