@@ -130,6 +130,11 @@
 </div>
 
 ---
+## 📊 GitHub Badges
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Devesh-chandan&theme=darkhub&margin-w=15)
+
+---
 
 
 <div align="center">
