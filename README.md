@@ -131,6 +131,11 @@
 </div>
 
 ---
+## 📊 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh-chandan&theme=dracula&hide_border=true" />
+</div>
+
 ## 📊 GitHub Badges
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Devesh-chandan&theme=darkhub&margin-w=15)
