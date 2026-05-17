@@ -123,22 +123,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Devesh-chandan&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117" height="190px" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Devesh-chandan&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="190px" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-chandan&theme=react&hide_border=true&background=0D1117" height="190px" />
+  <img src="https://streak-stats.demolab.com?user=Devesh-chandan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ---
 ## 📊 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh-chandan&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh-chandan&bg_color=0d1117&color=7d8590&line=58a6ff&point=1f6feb&hide_border=true" />
 </div>
 
 ## 📊 GitHub Badges
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Devesh-chandan&theme=darkhub&margin-w=15)
+
 
 ---
 
