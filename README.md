@@ -48,9 +48,8 @@
   <ul style="list-style-type: none;">
     <li>🎓 <b>Second-year ENTC Student</b> at Pune Institute of Computer Technology</li>
     <li>✨ <b>Fullstack Developer</b> building scalable and resilient applications</li>
-    <li>🚀 <b>Current Focus</b>: Cloud-native applications & microservices</li>
-    <li>🌱 <b>Learning</b>: Advancing expertise in distributed systems</li>
-    <li>🎯 <b>Specialization</b>: High-performance backend systems & API design</li>
+    <li>🚀 <b>Current Focus</b>: Building a VCS from scratch</li>
+    <li>🌱 <b>Future Learning</b>:AIML and System Design Basics</li>
     <li>💡 <b>Passion</b>: Optimizing solutions for real-life problems</li>
     <li>📚 <b>Academic Work</b>: PICT ACM Student Chapter (PASC) Active Member</li>
     <li>📫 <b>Reach me</b>: <b>deveshc1012@gmail.com</b></li>
