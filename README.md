@@ -4,37 +4,40 @@
   <p align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70808&center=true&vCenter=true&width=500&height=50&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" />
-</a>
     
-  </p>
-    <p align="center">
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/devesh-chandan-697654332" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-    </a>
-    <a href="https://www.geeksforgeeks.org/profile/creav5x0" target="_blank">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-    </a>
-    <a href="https://discord.gg/devesh_chandan123" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://github.com/Devesh-chandan" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-  
+</a>
+
+     
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/devesh-chandan-697654332" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Devesh_chandan/" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:leetcode.svg?color=%23f99f1b" alt="LeetCode" width="50" height="50" style="background: #121212; padding: 10px; border-radius: 12px; box-sizing: border-box; vertical-align: middle;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/creav5x0" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:geeksforgeeks.svg?color=%23298d46" alt="GeeksforGeeks" width="50" height="50" style="background: #121212; padding: 10px; border-radius: 12px; box-sizing: border-box; vertical-align: middle;" />
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/devesh_chandan123" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Devesh-chandan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" />
+  </a>
+</p>
+  </p>  
   <!-- Banner Image -->
  
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
 <br>
-  
-  
-  
 
 </div>
 
