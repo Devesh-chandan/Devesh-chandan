@@ -128,7 +128,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Devesh-chandan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
+<p align="center">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Devesh-chandan?cardType=github&theme=onedark&fontFamily=&preferLogin=false">
+</p>
 ---
 ## 📊 GitHub Activity Graph
 <div align="center">
