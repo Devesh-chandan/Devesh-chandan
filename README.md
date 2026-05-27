@@ -1,12 +1,13 @@
 
-  <div>
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF5C00"  />
+<div align="center">
+
+  <!-- Waving Banner (Text Removed) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF5C00,D91A60,3B1154&height=150&section=header" width="100%"/>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5C00&center=true&vCenter=true&width=500&height=50&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" />
+
 </div>
-  <p align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70808&center=true&vCenter=true&width=500&height=50&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" />
-    
-</a>
 
      
 <p align="center">
@@ -244,7 +245,7 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevesh-chandan&label=Profile%20Views&labelColor=%23000000&countColor=%23F70808&style=flat-square" alt="Visitors" />
   </p>
 <div>
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF5C00"  />
-</div>
+
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=true&color=gradient&customColorList=FF5C00,D91A60,3B1154" />
 </div>
 
