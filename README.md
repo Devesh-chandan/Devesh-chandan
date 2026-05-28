@@ -73,20 +73,20 @@
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs&theme=dark" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,github&theme=dark" />
 </p>
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,pycharm&theme=dark" />
 </p>
 
 ### 🚀 Learning & Exploration
