@@ -1,10 +1,11 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF5C00,D91A60,3B1154&height=150&section=header" width="100%"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D91A60&center=true&vCenter=true&width=500&height=50&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D91A60&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" width="100%" />
 
 </div>
+
+
 
      
 <p align="center">
