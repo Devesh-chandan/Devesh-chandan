@@ -133,13 +133,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh-chandan&bg_color=0d1117&color=ffffff&line=D91A60&point=FF5C00&area=true&hide_border=true" />
 </div>
-
-## 📊 GitHub Badges
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devesh-chandan&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🛠️ Experience & Significant Projects
