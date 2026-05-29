@@ -1,6 +1,8 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF5C00,D91A60,3B1154&height=150&section=header&text=Welcome%20To%20My%20Github%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D91A60&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" width="100%" />
 
 </div>
  
@@ -8,7 +10,7 @@
 <br>
 
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D91A60&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" width="100%" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D91A60&center=true&vCenter=true&width=1000&height=70&lines=Let's+Connect!;" alt="Typing SVG" width="100%" />
      
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com" target="_blank">
