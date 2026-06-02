@@ -7,11 +7,8 @@
 </div>
  
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
-<br>
-
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D91A60&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!+I'm+Devesh;I+am+a+Fullstack+Developer;I+love+building+cool+stuff;Check+out+my+projects!" alt="Typing SVG" width="100%" />
+  <br>
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D91A60&center=true&vCenter=true&width=1000&height=70&lines=Let's+Connect!;" alt="Typing SVG" width="100%" />
-     
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshc1012@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
