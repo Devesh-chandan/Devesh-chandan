@@ -137,9 +137,10 @@
 ## 🛠️ Experience & Significant Projects
 
 <div align="center">
-  <p>
-    <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%">
-<br><br>
+ <p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5MmVwOWYxYjMyc2N1amd2eHdpZWdzd3JxbGx2bmVhcWU4eGRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%">
+</p>
+<br>
   </p>
 </div>
 
