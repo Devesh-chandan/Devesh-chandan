@@ -230,4 +230,5 @@
   </p>
 <div>
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=true&color=gradient&customColorList=FF5C00,D91A60,3B1154" />
+  
 </div>
