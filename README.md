@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF5C00,D91A60,3B1154&height=150&section=header&text=Welcome%20To%20My%20Github%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
 
-
 </div>
  
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
@@ -45,13 +44,12 @@
   <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2drc3o2MnNoczU0NG45NjJqeWlqcnZiNGh4aDU2emh5bnpodzV2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
   
   <ul style="list-style-type: none;">
-    <li>🎓 <b>Second-year ENTC Student</b> at Pune Institute of Computer Technology</li>
+    <li>🎓 <b>Pre-final year ENTC Student</b> at Pune Institute of Computer Technology</li>
     <li>✨ <b>Fullstack Developer</b> building scalable and resilient applications</li>
     <li>🚀 <b>Current Focus</b>: Building a VCS from scratch</li>
     <li>🌱 <b>Future Learning</b>: AIML and System Design Basics</li>
     <li>💡 <b>Passion</b>: Optimizing solutions for real-life problems</li>
     <li>📚 <b>Academic Work</b>: PICT ACM Student Chapter (PASC) Active Member</li>
-    <li>📫 <b>Reach me</b>: <b>deveshc1012@gmail.com</b></li>
   </ul>
 </div>
 
@@ -62,50 +60,25 @@
 ## 💻 Technical Expertise
 
 ### Languages & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,tailwind,bootstrap,notion&theme=dark" />  
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs&theme=dark" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=cpp,c,java,tailwind,bootstrap,notion,js,ts,html,css,react,nextjs&theme=dark" />
 
 ### Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs&theme=dark" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,mongodb,mysql&theme=dark" />
 
 ### Cloud, DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,github&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,github&theme=dark" />
 
 ### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,pycharm&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,vscode,eclipse,pycharm&theme=dark" />
 
 ### 🚀 Learning & Exploration
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,kubernetes,linux,mint&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,kubernetes,linux,mint&theme=dark" />
 
 ### Softwares
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,blender,arduino,autocad,windows&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=ps,blender,arduino,autocad,windows&theme=dark" />
 
 ### LLM and AI Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20copilot-0000FF?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=black" />
-</p>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/github%20copilot-0000FF?style=for-the-badge&logo=githubcopilot&logoColor=white"/> <img src="https://img.shields.io/badge/ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=black" />
 
 ---
 
@@ -225,7 +198,6 @@
     </a>
   </p>
   <p>
-    <!-- Total Visitors Badge -->
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevesh-chandan&label=Profile%20Views&labelColor=%23000000&countColor=%23F70808&style=flat-square" alt="Visitors" />
   </p>
 <div>
