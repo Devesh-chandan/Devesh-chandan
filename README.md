@@ -100,14 +100,6 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Devesh-chandan?cardType=github&theme=onedark&titleColor=FF5C00&iconColor=D91A60&textColor=ffffff&bgColor=0d1117&hideBorder=true">
 </p>
 
-
----
-## 📊 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh-chandan&bg_color=0d1117&color=ffffff&line=D91A60&point=FF5C00&area=true&hide_border=true" />
-</div>
----
-
 ## 🛠️ Experience & Significant Projects
 
 <div align="center">
