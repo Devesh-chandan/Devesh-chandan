@@ -127,7 +127,7 @@
 | 4 | **WanderLust** | Travel Marketplace | Nov 2025 – Dec 2025 | Node.js · Express · MongoDB · EJS · Passport.js | [View](https://github.com/Devesh-chandan/Wanderlust) |
 | 5 | **BambooBazaar** | Sustainable Marketplace | Jul 2025 – May 2026 | Next.js 15 · PostgreSQL · Prisma · Docker · Neon | [View](https://github.com/Devesh-chandan/BambooBazaar) |
 | 6 | **RazorRecon AI** | Fintech Settlement Reconciliation | Aug 2026 | FastAPI · React 19 · PostgreSQL · Redis · Llama 3.3 70B | [View](https://github.com/Devesh-chandan/RazorRecon-AI-Autonomous-Settlement-Reconciliation-Cash-Flow-Prescriber) |
-| 7 | **RepoHub** | Version Control System | Sep 2026 | React 19 · Express 5 · MongoDB · Socket.IO · AWS S3 | _Add link_ |
+| 7 | **RepoHub** | Version Control System | Sep 2026 | React 19 · Express 5 · MongoDB · Socket.IO · AWS S3 |[View](https://github.com/Devesh-chandan/RepoHub.git)  |
 | 8 | **NeuralLedger** | AML / SAR Narrative Generator | Feb 2026 | Streamlit · Pandas · Plotly · ReportLab | [View](https://github.com/Shravani-Sawant28/sar-narrative-generator) |
 | 9 | **Academic Timetable System** | Desktop Scheduling Engine | Aug 2026 | React · OR-Tools CP-SAT · FastAPI · Tauri | [View](https://github.com/Devesh-chandan/Academic-Timetable-Management-System) |
 | 10 | **TPCMS** | Training & Placement Management | Jul 2026 | Spring Boot 21 · React · JavaFX · PostgreSQL · Docker | [View](https://github.com/Devesh-chandan/TPCMS-PICT) |
