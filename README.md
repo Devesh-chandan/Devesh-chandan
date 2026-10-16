@@ -148,7 +148,7 @@
     <a href="https://discord.gg/devesh_chandan123" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="https://github.com/Devesh-chandan" target="_blank">
+    <a href="https://www.deveshchandan.me/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
   </p>
